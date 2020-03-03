@@ -1,0 +1,27 @@
+Advantages of V model
+1. Highly disciplined 
+2. Phases are completed one at a time
+3. Good for small projects with well understood requirements
+4. Simple to use and easy to understand
+5. Easy to manage because of how rigid the model is.
+
+Disadvantages of V model
+1. High risk and uncertainty
+2. Not good for complex or object oriented projects
+3. Not suitable for long, ongoing projects
+4. It is dificult to change or revert back once the appliacation is at testing stage
+5. Working software is only produced later in the life cycle.
+
+Advantages of Prototype model
+1. Users are actively involved in the development
+2. Errors can be found much sooner
+3. Users can give feedback a lot quicker,resulting in better solutions
+4. Missing functionality can be easily identified
+5. Identification of confusing or difficult functions can be made
+
+Disadvantages of Prototype model
+1. Time consuming
+2. Expensive
+3. The incomplete application may not be used as the full system is intended to be, resultin in incomplete problem analysis
+4. It may constrain the designer's ideas and reduce enthusiasm.
+5. Can be difficult to measure the degree of difficulty to implement, causing unlimited development time.
